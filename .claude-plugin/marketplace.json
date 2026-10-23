@@ -1,0 +1,12 @@
+{
+  "name": "tinderbox-works",
+  "owner": { "name": "Tinderbox Works" },
+  "metadata": { "description": "Claude Code plugins for Tinderbox Works: your Claude Code works on the tasks Tinderbox Works prepares for your game." },
+  "plugins": [
+    {
+      "name": "tinderbox",
+      "source": "./tinderbox",
+      "description": "Work on Tinderbox Works tasks: claim AI Agent tasks with the tinderbox CLI, do them in your game repo and post the results back."
+    }
+  ]
+}

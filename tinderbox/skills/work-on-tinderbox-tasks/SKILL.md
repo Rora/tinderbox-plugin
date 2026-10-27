@@ -52,3 +52,7 @@ After the loop, give the developer a short summary: which tasks you completed, w
 - `tinderbox assets upload --task <number> <files…>` uploads a make-asset task's files into its slot.
 - `tinderbox update` updates the CLI to the latest version (`--check` only says whether there is one).
 - Every command takes `--json` for machine-readable output and `--project <slug>` to override the linked game.
+- A **read-channel-numbers** task reads the follower counts of the game's own accounts on closed networks: use a
+  browser tool you already have (chrome-use, Claude in Chrome) and only read; leave a count out with a note when you
+  can't. A **read-market** task lists games like this one with their Steam app, itch.io page and own accounts, taken
+  only from each game's own pages.

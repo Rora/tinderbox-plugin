@@ -1,7 +1,7 @@
 {
   "name": "tinderbox",
-  "version": "0.31.0",
-  "description": "Work on Tinderbox Works tasks: claim AI Agent tasks with the tinderbox CLI, do them in your game repo and post the results back.",
+  "version": "0.40.1",
+  "description": "Work on Tinderbox Works tasks and ask about your game: claim AI Agent tasks with the tinderbox CLI, do them in your game repo and post the results back; answer what to post, how the week went and how you compare from the CLI.",
   "author": { "name": "Tinderbox Works" },
   "keywords": ["gamedev", "tinderbox", "tasks"]
 }
